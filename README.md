@@ -1,3 +1,7 @@
+> **Superseded.** This Spring Boot backend has been replaced by the NestJS + GraphQL rebuild in
+> [felixzacat-stack/petsitter](https://github.com/felixzacat-stack/petsitter), which holds the backend and frontend
+> in one repository. This repo is kept only as the reference for the original data model.
+
 
 This README consists of three parts. [based on shape shop README]
 
